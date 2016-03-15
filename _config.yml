@@ -1,0 +1,28 @@
+name: Hacking Happiness
+favicon: null
+layout_spectrum: 0.9681857535615563
+typography_spectrum: 0.5210957897361368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.47663094545714557
+  lightness: 0.6657101577147841
+  saturation: 0.6154024966526777
+  rhythmicContrast: 0.8852044371888041
+purpose: []
